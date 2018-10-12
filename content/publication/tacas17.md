@@ -18,9 +18,7 @@ authors = ["David Basin", "Bhargav Nagaraja Bhatt", "Dmitriy Traytel"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Legay, A., Margaria, T. (eds.) *23rd International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2017)*, Springer, 2017, LNCS 10206, pp. 94–112.
-
-"
+publication = "In Legay, A., Margaria, T. (eds.) *23rd International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2017)*, Springer, 2017, LNCS 10206, pp. 94–112."
 publication_short = "In *TACAS 2017*"
 
 # Abstract and optional shortened version.

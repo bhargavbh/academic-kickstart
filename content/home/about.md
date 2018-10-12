@@ -18,8 +18,9 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
  course = "PhD (Contd.) in Computer Science"
- institution = "Software Institute, USI Lugano <br/> Infsec, ETHZ"
+ institution = "Software Institute, USI Lugano"
  year = "2018-present"
+ advisor = "Infsec"
 
 [[education.courses]]
  course = "PhD in Computer Science"

@@ -18,10 +18,10 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
  course = "PhD in Computer Science"
-#  institution = "Software Institute, USI Lugano"
-#  year = 2018-
+  institution = "Software Institute, USI Lugano"
+  year = "2018-present"
   institution = "Institute of Information Security, ETH Zurich"
-  year = "2015"
+  year = "2015-18"
 
 
 [[education.courses]]

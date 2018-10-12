@@ -21,13 +21,13 @@ weight = 5
 #  institution = "Software Institute, USI Lugano"
 #  year = 2018-
   institution = "Institute of Information Security, ETH Zurich"
-  year = 2015-18
+  year = "2015"
 
 
 [[education.courses]]
   course = "BSc-MSc in Mathematics and Computing"
   institution = "Indian Institute of Technology Kanpur"
-  year = 2010-2015
+  year = 2015
   advisor = Prof. Mohua Banerjee
 
 +++

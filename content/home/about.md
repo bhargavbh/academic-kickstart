@@ -27,7 +27,7 @@ weight = 5
 [[education.courses]]
   course = "BSc-MSc in Mathematics and Computing"
   institution = "Indian Institute of Technology Kanpur"
-  year = 2015
+  year = "2010-15"
 #  advisor = Prof. Mohua Banerjee
 
 +++

@@ -26,8 +26,7 @@ abstract = "A monitoring algorithm is trace-length independent if its space cons
 does not depend on the number of events processed. The analysis of
 many monitoring algorithms has aimed at establishing trace-length independence.
 But a trace-length independent monitor’s space consumption can depend on characteristics
-of the trace other than its size.
-We put forward the stronger notion of event-rate independence, where the
+of the trace other than its size. We put forward the stronger notion of event-rate independence, where the
 monitor’s space usage does not depend on the event rate. This property is critical
 for monitoring voluminous streams of events arriving at a varying rate. Some
 previously proposed algorithms for past-only temporal logics satisfy this new

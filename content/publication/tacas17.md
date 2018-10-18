@@ -1,6 +1,6 @@
 +++
 title = "Almost Event-Rate Independent Monitoring of Metric Temporal Logic"
-date = 2013-07-01T00:00:00
+date = 2017-04-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `[]`.
@@ -46,12 +46,12 @@ tags = []
 url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 url_code = "#"
-url_dataset = "#"
-url_project = "#"
+#url_dataset = "#"
+#url_project = "#"
 url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+#url_video = "#"
+#url_poster = "#"
+#url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -74,4 +74,4 @@ caption = "My caption :smile:"
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+#More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

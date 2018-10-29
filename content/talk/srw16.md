@@ -1,26 +1,26 @@
 +++
-title = "Almost Event-Rate Independent Monitoring of Metric Temporal Logic."
-date = 2017-04-01T00:00:00  # Schedule page publish date.
+title = "Event-Rate Independence in Runtime Monitoring."
+date = 2016-12-01T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2030-06-01T13:00:00
-time_end = 2030-06-01T15:00:00
+time_start = 2016-12-08T13:00:00
+time_end = 2016-12-08T13:00:01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Bhargav Bhatt"]
 
 # Abstract and optional shortened version.
-abstract = ""
-abstract_short = ""
+#abstract = ""
+#abstract_short = ""
 
 # Name of event and optional event URL.
-event = "TACAS 2017"
-event_url = "https://www.etaps.org/2017/tacas"
+event = "Stream Reasoning Workshop 2016"
+#event_url = "https://www.etaps.org/2017/tacas"
 
 # Location of event.
-location = "Uppsala, Sweden"
+location = "Berlin, Germany"
 
 # Is this a selected talk? (true/false)
 selected = true
@@ -30,7 +30,7 @@ selected = true
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-#projects = ["deep-learning"]
+projects = ["deep-learning"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

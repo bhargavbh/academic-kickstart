@@ -1,6 +1,6 @@
 +++
 title = "Almost Event-Rate Independent Monitoring of Metric Temporal Logic"
-date = 2017-04-01T00:00:00
+date = 2018-06-06T00:00:00
 draft = true
 
 # Authors. Comma separated list, e.g. `[]`.

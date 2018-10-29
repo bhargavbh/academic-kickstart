@@ -22,6 +22,7 @@ publication = " *Under Submission* "
 publication_short = " *Under Submission* "
 
 # Abstract and optional shortened version.
+
 abstract = "A monitoring algorithm is trace-length independent if its space consumption does not depend on the number of events processed. The analysis of many monitoring algorithms has aimed at establishing their trace-length independence. But a trace-length independent monitor's space consumption can depend on characteristics of the trace other than its size. We put forward the stronger notion of event-rate independence, where the monitor's space usage does not depend on the event rate, i.e., the number of events in a fixed time unit. This property is critical for monitoring voluminous streams of events with a high arrival rate. We propose a new algorithm for metric temporal logic (MTL) that is almost event-rate independent, where "almost" denotes a logarithmic dependence on the event rate: the algorithm must store the event rate as a number. Afterwards, we investigate more expressive logics. In particular, we extend linear dynamic logic with past operators and metric features. The resulting metric dynamic logic (MDL) offers the quantitative temporal conveniences of MTL while increasing its expressiveness. We show how to modify our MTL algorithm in a modular way, yielding an almost event-rate independent monitor for MDL. Finally, we compare our algorithms with traditional monitoring approaches, providing empirical evidence that almost event-rate independence matters in practice."
 abstract_short = ""
 

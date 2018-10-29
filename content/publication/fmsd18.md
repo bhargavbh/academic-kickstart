@@ -1,7 +1,7 @@
 +++
 title = "Almost Event-Rate Independent Monitoring of Metric Temporal Logic"
 date = 2018-06-06T00:00:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `[]`.
 authors = ["David Basin", "Bhargav Nagaraja Bhatt", "Sr&#273;an Krsti&#263;", "Dmitriy Traytel"]

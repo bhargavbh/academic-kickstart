@@ -1,11 +1,11 @@
 +++
-title = "Almost Event-Rate Independent Monitoring of Metric Temporal Logic."
+title = "Logics for Dependence and Independence"
 date = 2017-04-01T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2017-04-26T13:00:00
+time_start = 2014-10-14T13:00:00
 #time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -16,11 +16,11 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "TACAS 2017"
-event_url = "https://www.etaps.org/2017/tacas"
+event = "Calcutta Logic Circle Workshop"
+#event_url = "https://www.etaps.org/2017/tacas"
 
 # Location of event.
-location = "Uppsala, Sweden"
+location = "ISI Kolkata, India"
 
 # Is this a selected talk? (true/false)
 selected = true
@@ -46,7 +46,7 @@ tags = []
 math = true
 
 # Does the content use source code highlighting?
-highlight = true
+highlight = false
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
@@ -55,3 +55,15 @@ highlight = true
 #caption = "My caption :smile:"
 
 +++
+
+{{% alert note %}}
+Click on the **Slides** button above to view the built-in slides feature.
+{{% /alert %}}
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic's *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.

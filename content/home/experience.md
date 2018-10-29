@@ -27,19 +27,36 @@ date_format = "January 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
+
   * Analysing
   * Modelling
   * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Intern"
+  company = "Microsoft Research India"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Bangalore"
+  date_start = "2015-05"
+  date_end = "2015-07"
+  description = """TruMP: Trusted Multi Party Computations using SGX"""
 
+  [[experience]]
+    title = "Research Intern"
+    company = "Laboratory for Specificationa dn Verification, ENS Cachan"
+    company_url = ""
+    location = "Paris"
+    date_start = "2014-05"
+    date_end = "2014-07"
+    description = """Nash Equilibrium in Pushdown Games"""
+
+    [[experience]]
+      title = "Research Intern"
+      company = "Microsoft Research- INRIA Joint Centre"
+      company_url = ""
+      location = "Nancy"
+      date_start = "2013-05"
+      date_end = "2013-07"
+      description = """Developing libraries for TLA-Proof System"""
 +++

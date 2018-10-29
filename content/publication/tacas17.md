@@ -43,9 +43,9 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_code = "#"
+url_pdf = "https://link.springer.com/chapter/10.1007/978-3-662-54580-5_6"
+url_preprint = "../static/pubs/aerial.pdf"
+url_code = "https://bitbucket.org/traytel/aerial"
 #url_dataset = "#"
 #url_project = "#"
 url_slides = "#"
@@ -55,7 +55,7 @@ url_slides = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
+#url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
 doi = ""

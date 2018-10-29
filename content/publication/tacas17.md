@@ -19,14 +19,14 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In Legay, A., Margaria, T. (eds.) *23rd International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2017)*, Springer, 2017, LNCS 10206, pp. 94–112."
-publication_short = "In *TACAS 2017*"
+publication_short = "In *Tools and Algorithms for the Construction and Analysis of Systems (TACAS)*"
 
 # Abstract and optional shortened version.
 abstract = "A monitoring algorithm is trace-length independent if its space consumption does not depend on the number of events processed. The analysis of many monitoring algorithms has aimed at establishing trace-length independence. But a trace-length independent monitor’s space consumption can depend on characteristics of the trace other than its size. We put forward the stronger notion of event-rate independence, where the monitor’s space usage does not depend on the event rate. This property is critical for monitoring voluminous streams of events arriving at a varying rate. Some previously proposed algorithms for past-only temporal logics satisfy this new property. However, when dealing with future operators, the traditional approach of using a queue to wait for future obligations to be resolved is not event-rate independent. We propose a new algorithm that supports metric past and bounded future operators and is almost event-rate independent, where “almost” denotes a logarithmic dependence on the event rate: the algorithm must store the event rate as a number. We compare our algorithm with traditional ones, providing evidence that almost event-rate independence matters in practice."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+#image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -61,10 +61,10 @@ url_slides = "pubs/TACAS17.pptx"
 doi = "https://doi.org/10.1007/978-3-662-54580-5_6"
 
 # Does this page contain LaTeX math? (true/false)
-math = true
+math = false
 
 # Does this page require source code highlighting? (true/false)
-highlight = true
+highlight = false
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.

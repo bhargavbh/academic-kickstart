@@ -1,5 +1,5 @@
 +++
-title = "Almost Event-Rate Independent Monitoring of Metric Temporal Logic."
+title = "Almost Event-Rate Independent Monitoring of Metric Temporal Logic"
 date = 2017-04-01T00:00:00  # Schedule page publish date.
 draft = false
 

@@ -44,11 +44,11 @@ tags = []
 
 # Links (optional).
 url_pdf = "https://link.springer.com/chapter/10.1007/978-3-662-54580-5_6"
-url_preprint = "pubs/aerial.pdf"
+url_preprint = "pubs/TACAS17.pdf"
 url_code = "https://bitbucket.org/traytel/aerial"
 #url_dataset = "#"
 #url_project = "#"
-url_slides = "#"
+url_slides = "pubs/TACAS17.pptx"
 #url_video = "#"
 #url_poster = "#"
 #url_source = "#"

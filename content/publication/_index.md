@@ -9,6 +9,6 @@ highlight = false
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 0
+list_format = 2
 
 +++

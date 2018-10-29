@@ -1,6 +1,6 @@
 +++
 title = "Optimal Proofs for Linear Temporal Logic on Lasso Words"
-date = 2017-04-01T00:00:00
+date = 2018-04-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `[]`.

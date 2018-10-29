@@ -1,6 +1,6 @@
 +++
 title = "Game-based cryptography in HOL"
-date = 2017-04-01T00:00:00
+date = 2017-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `[]`.
@@ -18,7 +18,7 @@ authors = ["Andreas Lochbihler", "S Reza Sefidgar", "Bhargav Nagaraja Bhatt"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Archive of Formal Proofs*, May 2017."
+publication = "In *Archive of Formal Proofs*, August 2017."
 publication_short = "In *AFP 2017*"
 
 # Abstract and optional shortened version.

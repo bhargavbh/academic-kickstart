@@ -34,7 +34,7 @@ weight = 5
 
 +++
 
-# Biography
+# About Me
 
 I am a Ph.D student supervised by <a href="http://bugcounting.net">  Prof. Carlo A Furia </a> at the <a href="http://si.usi.ch"> Software Institute, USI Lugano</a>. Previously, i was a Doctoral Research Assistant at the <a href="http://www.informationsecurity.ethz.ch/"> Institute of Information Security, ETH Zurich </a> from 2015-2018. Before that, i completed Integrated Bachelors and Master in Mathematics and Computing at <a href="http://iitk.ac.in"> IIT Kanpur</a> in 2015, where my Masters Thesis was advised by <a href="http://home.iitk.ac.in/~mohua/"> Prof. Mohua Banerjee </a>.</p>
 <p> I currently work on topics in formal verification with focus on program synthesis and automated program repair.

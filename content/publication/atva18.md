@@ -71,7 +71,6 @@ highlight = true
 #[header]
 #image = "headers/bubbles-wide.jpg"
 #caption = "My caption :smile:"
-**[Distinguished Paper Award]**
 +++
-
+**[Distinguished Paper Award]**
 #More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

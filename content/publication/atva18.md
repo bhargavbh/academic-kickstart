@@ -40,7 +40,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Distinguished Paper Award"]
 
 # Links (optional).
 url_pdf = "https://link.springer.com/chapter/10.1007%2F978-3-030-01090-4_3"

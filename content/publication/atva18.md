@@ -58,7 +58,7 @@ url_slides = "pubs/ATVA18_slides.pdf"
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1007/978-3-030-01090-4_3"
+doi = "10.1007/978-3-030-01090-4_3"
 
 # Does this page contain LaTeX math? (true/false)
 math = true

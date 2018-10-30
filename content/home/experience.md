@@ -33,8 +33,8 @@ date_format = "January 2006"
 #  """
 
 [[experience]]
-  title = "Software Engineering Intern"
-  company = "Microsoft Research India"
+  title = "Microsoft Research India"
+  company = "Software Engineering Intern"
   company_url = ""
   location = "Bangalore"
   date_start = "2015-05-01"
@@ -42,8 +42,8 @@ date_format = "January 2006"
   description = """TruMP: Trusted Multi Party Computations using SGX"""
 
   [[experience]]
-    title = "Research Intern"
-    company = "Laboratory for Specificationa dn Verification, ENS Cachan"
+    title = "Laboratory for Specification and Verification, ENS"
+    company = "Research Intern"
     company_url = ""
     location = "Paris"
     date_start = "2014-05-01"
@@ -51,8 +51,8 @@ date_format = "January 2006"
     description = """Nash Equilibrium in Pushdown Games"""
 
     [[experience]]
-      title = "Research Intern"
-      company = "Microsoft Research- INRIA Joint Centre"
+      title = "Microsoft Research- INRIA Joint Centre"
+      company = "Research Intern"
       company_url = ""
       location = "Nancy"
       date_start = "2013-05-01"

@@ -1,6 +1,6 @@
 +++
 title = "Optimal Proofs for Linear Temporal Logic on Lasso Words"
-#date = 2018-04-01T00:00:00
+date = 2018-04-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `[]`.
@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In: Lahiri S., Wang C. (eds) 16th International Symposium on *Automated Technology for Verification and Analysis (ATVA 2018)*. Springer, 2018, LNCS 11138, pp. 37-55."
-publication_short = "In *Automated Technology for Verification and Analysis*, 2018. **[Distinguished Paper Award]**"
+publication_short = "In *Automated Technology for Verification and Analysis*, **[Distinguished Paper Award]**"
 
 # Abstract and optional shortened version.
 abstract = "Counterexamples produced by model checkers can be hard to grasp. Often it is not even evident why a trace violates a specification. We show how to provide easy-to-check evidence for the violation of a linear temporal logic (LTL) formula on a lasso word, based on a novel sound and complete proof system for LTL on lasso words. Valid proof trees in our proof system follow the syntactic structure of the formula and provide insight on why each Boolean or temporal operator is violated or satisfied. We introduce the notion of optimal proofs with respect to a user-specified preference order and identify sufficient conditions for efficiently computing optimal proofs. We design and evaluate an algorithm that performs this computation, demonstrating that it can produce optimal proofs for complex formulas in under a second."

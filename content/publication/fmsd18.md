@@ -1,6 +1,6 @@
 +++
 title = "Almost Event-Rate Independent Monitoring"
-date = 2017-06-06T00:00:00
+date = 2019-03-06T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `[]`.

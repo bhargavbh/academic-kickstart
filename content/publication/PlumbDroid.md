@@ -1,6 +1,6 @@
 +++
 title = "Automatic Repair for Resource Leaks in Android Applications"
-date = 2018-12-12T00:00:00
+date = 2020-03-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `[]`.

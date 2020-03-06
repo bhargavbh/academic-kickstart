@@ -14,9 +14,13 @@ subtitle = ""
 weight = 60
 
 +++
-I have been a Teaching Assistant for the following courses at ETH Zurich:
+Teaching Duties at ETH Zurich:
 
-- Informatics for Mathematics and Physics (IFMP), Fall 2017
-- Formal Methods and Functional Programming (FMFP), Spring 2017
-- Informatics for Mathematics and Physics (IFMP), Fall 2016
-- Formal Methods and Functional Programming (FMFP), Spring 2016
+- Formal Methods and Functional Programming (FMFP): Spring 2016, Spring 2017
+- Informatics for Mathematics and Physics (IFMP): Fall 2016, Fall 2017
+
+Teaching Duties at USI Lugano:
+
+- Software Analysis: Spring 2019, Spring 2020
+- Web Atelier: Fall 2019
+- Systems Programming: Spring 2019

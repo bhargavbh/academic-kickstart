@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Formal Methods",
     "Automated Program Repair",
-    "Model Checking and Runtime Verification"
+    "Model Checking",
+    "Runtime Verification"
       ]
 
 # List your qualifications (such as academic degrees).

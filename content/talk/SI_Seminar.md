@@ -5,7 +5,7 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2017-04-26T13:00:00
+time_start = 2019-12-05T00:00:00
 #time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -16,7 +16,7 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Software Institute Seminar, USI"
+event = "Software Institute Seminar, USI  <span style='color:red'>**[Awarded Best Presentation]** </span>"
 event_url = "https://www.si.usi./ch/seminars/"
 
 # Location of event.

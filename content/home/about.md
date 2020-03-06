@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Formal Verification",
-    "Program Synthesis",
-    "Model Checking, Runtime Verification"
+    "Formal Methods",
+    "Automated Program Repair",
+    "Model Checking and Runtime Verification"
       ]
 
 # List your qualifications (such as academic degrees).

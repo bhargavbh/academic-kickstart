@@ -1,5 +1,5 @@
 +++
-title = "DroidPLUMB: Repairing Resource-Leak bugs with Static Analysis"
+title = "PlumbDROID: Repairing Resource-Leak bugs with Static Analysis"
 date = 2019-12-05T00:00:00  # Schedule page publish date.
 draft = false
 
@@ -17,7 +17,7 @@ abstract_short = ""
 
 # Name of event and optional event URL.
 event = "Software Institute Seminar, USI  <span style='color:red'>**[Awarded Best Presentation]** </span>"
-event_url = "https://www.si.usi./ch/seminars/"
+event_url = "https://www.si.usi.ch/seminars/"
 
 # Location of event.
 location = "Lugano, Switzerland"

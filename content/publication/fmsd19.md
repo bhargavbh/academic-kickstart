@@ -15,7 +15,7 @@ authors = ["David Basin", "Bhargav Nagaraja Bhatt", "Sr&#273;an Krsti&#263;", "D
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In: *Formal Methods in System Design (FMSD)*,  54, 449–478 (2019)."
